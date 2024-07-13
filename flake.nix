@@ -54,7 +54,7 @@
               ./resume.json
 
             mkdir -p $out
-            cp ./resume.html $out/
+            cp ./resume.html $out/index.html
           '';
         };
       };
