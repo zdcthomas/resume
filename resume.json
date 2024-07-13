@@ -1,0 +1,175 @@
+{
+  "basics": {
+    "name": "Zachary Thomas",
+    "label": "Programmer",
+    "email": "zachary.dc.thomas@gmail.com",
+    "phone": "(972) 834-6214",
+    "url": "https://sadfrogblog.com",
+    "summary": "Learning new and interesting things is why I became a software developer and what drives me every day; I always want to work somewhere that reflects that. I care deeply about the people that I work with and the products I work on.",
+    "location": {
+      "address": "509 E Fifth st, Apt 3b",
+      "postalCode": "10009",
+      "city": "New York",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "zdcthomas",
+        "url": "https://github.com/zdcthomas"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "zachary-thomas",
+        "url": "https://linkedin.com/in/zachary-thomas-206264161"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Kevel Inc.",
+      "position": "Senior Software Engineer",
+      "url": "https://company.com",
+      "startDate": "2022-10-17",
+      "summary": "Description…",
+      "highlights": [
+        "worked"
+      ]
+    },
+    {
+      "name": "Blinker Inc",
+      "position": "Platform Architect",
+      "startDate": "2021-04-01",
+      "endDate": "2021-08-01",
+      "summary": "Lead design and implementation of key backend systems.",
+      "highlights": [
+        "Leading decisions and discussions on code base architectures and best practices",
+        "Contributing to all active code bases (Elixir, Rust, Typescript/React,)",
+        "Creating and facilitating technical processes and standards throughout the engineering department",
+        "Communicating the health of code bases to people outside of engineering",
+        "Continuing to hold hiring manager responsibilities"
+      ]
+    },
+    {
+      "name": "Blinker Inc",
+      "position": "Engineering Manager",
+      "startDate": "2020-11-01",
+      "endDate": "2021-04-01",
+      "summary": "Managed team of 3 engineers as well as lead hiring process",
+      "highlights": [
+        "Handled all hiring process and management for the engineering department",
+        "Managed resourcing for projects and reported on the state of those projects",
+        "Made changes to process and structure throughout the engineering department",
+        "Worked on performance reviews and career development",
+        "Communicated state of the engineering department to other departments within the company"
+      ]
+    },
+    {
+      "name": "Blinker Inc",
+      "position": "Software Engineer",
+      "startDate": "2018-12-17",
+      "endDate": "2020-11-01",
+      "summary": "Worked on various engineering efforts",
+      "highlights": [
+        "Worked mostly on the backend system (Elxiir/Rails) at first, but over time began to work across the stack",
+        "Wrote code for new things and for things that already exist",
+        "Worked closely with the support team and the product team to figure out what's most important to work on",
+        "Was on-call to handle and fix things that go wrong"
+      ]
+    },
+    {
+      "name": "Turing School of Software and Design",
+      "position": "Student Support Fellow",
+      "startDate": "2018-09-01",
+      "endDate": "2018-10-01",
+      "summary": "Temporary position to help and mentor students starting out at the school",
+      "highlights": [
+        "Encouraged and supported students to help them succeed in learning to code and become a software developer",
+        "Worked with an assigned cohort of students, mentoring and pairing with them",
+        "Helped track student progress through the course material"
+      ]
+    },
+    {
+      "name": "audio technician",
+      "position": "leforce entertainment",
+      "startdate": "2017-05-01",
+      "enddate": "2018-02-01",
+      "summary": "temporary position to help and mentor students starting out at the school",
+      "highlights": [
+        "lead teams in settings up audio and lighting equipment specifically for the space",
+        "operated audio equipment during events/performances",
+        "worked at a variety of events, weddings, concerts, corporate, and charity",
+        "brought audio equipment to events",
+        "dealt with emergencies"
+      ]
+    },
+    {
+      "name": "T.A (Ancient Greek)",
+      "position": "St. John's College (Santa Fe, NM)",
+      "startdate": "2014-08-01",
+      "enddate": "2016-04-01",
+      "summary": "Worked with students and faculty to help students learn the Ancient Greek language",
+      "highlights": [
+        "Instructed students both inside and outside of class on Ancient Greek reading and writing",
+        "Mentored students on their translations of ancient works",
+        "Gave feedback to professors on curriculum and student progress"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Turing School of Software and Design",
+      "area": "Software Development",
+      "startDate": "2018-03-15",
+      "endDate": "2018-09-15",
+      "courses": [
+        "Backend Engineering"
+      ]
+    },
+    {
+      "institution": "St John's College",
+      "area": "Classics, Philosophy, History",
+      "startDate": "2012",
+      "endDate": "2016"
+    }
+  ],
+  "publications": [
+    {
+      "name": "SadFrogBlog (My personal blog)",
+      "url": "https://sadfrogblog.com"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Rust",
+      "keywords": [
+        "Rust",
+        "Distrubuted Systems",
+        "Performance"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "keywords": [
+        "GitHub",
+        "Nix",
+        "AWS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
