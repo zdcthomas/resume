@@ -1,9 +1,5 @@
 name: Update Github Pages
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
 
 'on':
   push:
@@ -17,6 +13,8 @@ jobs:
       # This makes sure that this action has permissions to push to
       # the gh-pages branch.
       contents: write
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@v4
       - uses: DeterminateSystems/nix-installer-action@v6
