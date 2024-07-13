@@ -166,6 +166,14 @@
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Rust NYC",
+      "position": "Organizer",
+      "url": "https://www.meetup.com/rust-nyc/",
+      "summary": "I organize and host the Rust NYC monthly meetup, along with a great team of talented Rustaceans throughout the east coast."
+    }
+  ],
   "languages": [
     {
       "language": "English",
