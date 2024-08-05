@@ -5,7 +5,7 @@
     "email": "zachary.dc.thomas@gmail.com",
     "phone": "(972) 834-6214",
     "url": "https://sadfrogblog.com",
-    "summary": "Learning new and interesting things is why I became a software developer and what drives me every day; I always want to work somewhere that reflects that. I care deeply about the people that I work with and the products I work on.",
+    "summary": "Learning new and interesting things is why I became a software developer and what drives me every day. I always want to work somewhere that reflects that. I care deeply about the people that I work with and the products I work on.",
     "location": {
       "address": "509 E Fifth st, Apt 3b",
       "postalCode": "10009",
@@ -30,11 +30,13 @@
     {
       "name": "Kevel Inc.",
       "position": "Senior Software Engineer",
-      "url": "https://company.com",
+      "url": "https://www.kevel.com/",
       "startDate": "2022-10-17",
-      "summary": "Description…",
+      "summary": "Engineering on the Relay real-time-bidding product.",
       "highlights": [
-        "worked"
+        "Designed/implemented reporting feature, collating billions real time metrics into user consumable stats",
+        "Work daily on real time bidding server written in Rust",
+        "Worked with separate team when business needs required"
       ]
     },
     {
@@ -42,7 +44,7 @@
       "position": "Platform Architect",
       "startDate": "2021-04-01",
       "endDate": "2021-08-01",
-      "summary": "Lead design and implementation of key backend systems.",
+      "summary": "Lead design and implementation of backend systems.",
       "highlights": [
         "Leading decisions and discussions on code base architectures and best practices",
         "Contributing to all active code bases (Elixir, Rust, Typescript/React,)",
@@ -142,19 +144,14 @@
   ],
   "skills": [
     {
-      "name": "Rust",
+      "name": "Languages",
       "keywords": [
         "Rust",
-        "Distrubuted Systems",
-        "Performance"
-      ]
-    },
-    {
-      "name": "Web Development",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
+        "Elixir",
+        "SQL",
+        "Typescript",
+        "SQL",
+        "Nix"
       ]
     },
     {
@@ -162,7 +159,8 @@
       "keywords": [
         "GitHub",
         "Nix",
-        "AWS"
+        "AWS",
+        "CircleCI"
       ]
     }
   ],
@@ -172,12 +170,6 @@
       "position": "Organizer",
       "url": "https://www.meetup.com/rust-nyc/",
       "summary": "I organize and host the Rust NYC monthly meetup, along with a great team of talented Rustaceans throughout the east coast."
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
     }
   ]
 }
